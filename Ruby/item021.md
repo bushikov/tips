@@ -48,9 +48,8 @@ class Blass
   end
 end
 ```
-  - DSL
 
-渡すファイル
+DSL
 ```
 meth
 meth2( "HELLO" )

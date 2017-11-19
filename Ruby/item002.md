@@ -22,9 +22,9 @@ Klass.instance_eval do
   end
 end
 Klass.meth
---> 'HELLO'
+HELLO
 Klass.new.meth
---> NoMethodError
+=> NoMethodError
 ```
 
 メソッド：def
@@ -38,9 +38,9 @@ Klass.class_eval do
   end
 end
 Klass.meth
---> NoMethodError
+=> NoMethodError
 Klass.new.meth
---> 'HELLO'
+HELLO
 ```
 
 メソッド：define_method
@@ -54,9 +54,9 @@ Klass.instance_eval do
   end
 end
 Klass.meth
---> NoMethodError
+=> NoMethodError
 Klass.new.meth
---> 'HELLO'
+HELLO
 ```
 
 メソッド：define_method
@@ -72,5 +72,5 @@ end
 Klass.meth
 --> NoMethodError
 Klass.new.meth
---> 'HELLO'
+HELLO
 ```

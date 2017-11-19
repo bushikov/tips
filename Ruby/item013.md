@@ -13,6 +13,6 @@ HomeController.ancestores_that_implement_instance_method( :method_a )
 => [ FooController::Rendering, BarController::Rendering ]
 ```
 
-## 参照
+## 参考
 
 http://qiita.com/ngtk/items/cd406961cf62531a81c5

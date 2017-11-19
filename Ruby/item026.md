@@ -11,5 +11,5 @@ Rake::Task = Rake::Task
 => Rake::Task
 ```
 
-## 参照
+## 参考
 https://qiita.com/ksss/items/377eef080909564e4a25
