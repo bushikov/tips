@@ -1,5 +1,5 @@
 # Ruby tips
-
+- [インストール](./item_a.md)
 - [item1 class_evalとinstance_evalのブロック中のカレントオブジェクトとカレントクラス](./item001.md)
 - [item2 defとdefine_methodの違い（フラットスコープ以外）](./item002.md)
 - [item3 循環参照](./item003.md)
@@ -28,3 +28,5 @@
 - [item26 定数の定義位置を調べる](./item026.md)
 - [item27 クラス変数と継承](./item027.md)
 - [item28 ％記法](./item028.md)
+- [item29 フォーマット文字列](./item029.md)
+- [item30 配列の展開](./item030.md)
